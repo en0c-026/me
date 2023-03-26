@@ -1,0 +1,42 @@
+[
+  {
+    "name": "pixel4te NFT Minter and Marketplace",
+    "description": "Convert your image to pixels, apply a color palette, draw pixel by pixel, upload it to the IPFS decentralized service. You can also mint a new NFT item in the pixel4te collection and list it on the pixel4te NFT marketplace.",
+    "repo": "https://github.com/en0c-026/pixel4te",
+    "demo": "https://pixel4te.vercel.app",
+    "image": "https://user-images.githubusercontent.com/28759552/227783794-164b4ed4-cddd-4171-8fc2-19238e3113b2.png",
+    "stack": ["web3", "react", "typescript", "wagmi", "nft-storage", "canvas", "solidity"]
+  },
+  {
+    "name": "Alcantara Crypto Swap Widget",
+    "description": "A decentralized exchange application in widget format, which can be embedded on any website with a single line of code. It allows for swapping between more than 200 tokens and is compatible with Ethereum, Polygon, Arbitrum, and Optimism.",
+    "repo": "https://github.com/en0c-026/alcantara-crypto-swap-widget",
+    "demo": "https://alcantara-crypto-swap-widget.vercel.app/",
+    "image": "/alcantara-logo.png",
+    "stack": ["nextjs", "1inch", "alchemy", "wagmi", "ethers", "tailwind", "typescript"]
+  },
+  {
+    "name": "Data Magnament project with ComposeDB and GraphQL - Riff.cc PoC",
+    "description": "",
+    "repo": "https://github.com/riffcc/ceramic-riff-web",
+    "demo": "https://ftwc.xyz",
+    "image": "https://riff.cc/logo-white.svg",
+    "stack": ["next-js", "typescript", "ceramic", "composedb", "graphql"]
+  },
+  {
+    "name": "Ceramic Node and ComposeDB Implementation ",
+    "description": "This is an implementation of ComposeDB that runs its own Ceramic node and contains a series of scripts to automate the processes of creating and compiling GraphQL schemas, thus achieving the implementation of a decentralized database.",
+    "repo": "https://github.com/riffcc/ceramic-node",
+    "demo": "https://ftwc.xyz",
+    "image": "https://composedb.js.org/img/logo.svg",
+    "stack": ["node", "ceramic", "graphql", "composedb", "javascript"]
+  },
+  {
+    "name": "Gawi Bawi Bo - Polygon",
+    "description": "Popular game rock-paper-scissors, known in Korea as gawi-bawi-bo, an implementation of the game but with a Solidity smart contract, where users bet a certain amount of tokens in each game.",
+    "repo": "https://github.com/en0c-026/gawibawibo-polygon",
+    "demo": "https://en0c-026.github.io/gawibawibo-polygon/",
+    "image": "https://en0c-026.github.io/gawibawibo-polygon/loading.png",
+    "stack": ["react", "solidity", "ethers", "hardhat"]
+  }
+]
