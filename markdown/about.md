@@ -1,11 +1,3 @@
-import Button from "../components/button.js";
-import Header from "../components/header.js";
-import Footer from "../components/footer.js";
-import projects from "../utils/projects.json";
-
-<Header />
-<div className="container">
-<section className="readme">
 # cv
 
 ## Description
@@ -73,31 +65,3 @@ Please note that I prefer written communication to video calls, and I have a pro
 
 - Email: bitup.games@gmail.com
 - GitHub: https://github.com/en0c-026
-
-
-</section>
-<section className="portfolio">
-# projects
-
-## my projects
-
-<div className="project-list">
-{projects.map((project) => (
-  <div className="project">
-    {project.image !== "" &&
-    <img className="project-image" src={project.image} />
-    }
-    <h3>{project.name}</h3>
-    <p>{project.description}</p>
-    <div className="project-links">
-      <a href={project.repo} target='_blank'>Repository</a>
-      <a href={project.demo} target='_blank'>Demo</a>
-    </div>
-
-  </div>
-))}
-</div>
-
-</section>
-</div>
-<Footer />
