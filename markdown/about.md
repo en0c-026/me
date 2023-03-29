@@ -6,8 +6,6 @@ I am a self-taught and independent developer with a passion for developing web a
 
 In addition, I am highly skilled in working remotely and collaborating with others as a team. I am always eager to work on innovative and challenging projects that allow me to exercise my creativity and expertise. Moreover, I am committed to finding simple and effective solutions to problems and keeping up-to-date with the latest technology trends and tools.
 
-Please note that I prefer written communication to video calls, and I have a proven track record of successful collaboration through this approach.
-
 ## Experience
 
 - Personal Projects and Hackathons
@@ -63,5 +61,7 @@ Please note that I prefer written communication to video calls, and I have a pro
 
 ## Contact Information
 
-- Email: bitup.games@gmail.com
-- GitHub: https://github.com/en0c-026
+- Email: [send a email](bitup.games@gmail.com)
+- GitHub: [@en0c-026](https://github.com/en0c-026)
+- Gitcoin: [@en0c-026](https://bounties.gitcoin.co/en0c-026)
+- Twitter: [@ben_ya_1](https://twitter.com/ben_ya_1)

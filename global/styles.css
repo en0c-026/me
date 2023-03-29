@@ -72,3 +72,19 @@ body {
   background-color: black;
   border-radius: 12px;
 }
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  align-content: center;
+  margin-top: 10px;
+}
+.tags>* {
+  margin: 0px;
+  margin-right: 3px;
+  /* ajuste el valor a su preferencia */
+}
+.tags>*:last-child {
+  margin-right: 0px;
+}
